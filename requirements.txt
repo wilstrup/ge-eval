@@ -1,0 +1,3 @@
+feyn
+scipy
+tqdm
